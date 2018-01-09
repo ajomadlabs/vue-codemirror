@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
   "dependencies": {
-    "codemirror": "git://github.com/ajomadlabs/CodeMirror.git#ea7c8074b66caa80fca4bbfd47900eafbdd47493"
+    "codemirror": "git://github.com/ajomadlabs/CodeMirror.git#d835f49747173e61c0d563cb5bff9973f7d45ab1"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
